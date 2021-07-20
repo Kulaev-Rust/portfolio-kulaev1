@@ -1,2 +1,2 @@
-# portfolio-kulaev1.ru
+# portfolio-kulaev1
 Портфолио htmlacademy
